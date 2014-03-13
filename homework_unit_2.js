@@ -1,9 +1,16 @@
 
-function fix_machine(debris, product)
-{
-alert("Hey! " + debris + ", " + product);
-}
+// function fix_machine(debris, product)
+// {
+// alert("Hey! " + debris + ", " + product);
+// }
 
+
+
+function show_image()
+{
+document.getElementById('demo');
+style.visibility="visible";
+}
 
 // ### TEST CASES ###
 // print "Test case 1: ", fix_machine('UdaciousUdacitee', 'Udacity') == "Give me something that's not useless next time."

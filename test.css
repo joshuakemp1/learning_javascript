@@ -10,6 +10,7 @@ body{
 .button_wrapper {
     margin: 200px 0 0 350px;
     width: 180px;
+    color:red;
 }
 .show_image{
   background: url(http://barbelle.leoweekly.com/wp-content/uploads/2013/06/scary-monster-copy.jpg);
