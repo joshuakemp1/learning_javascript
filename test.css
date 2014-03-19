@@ -5,7 +5,8 @@ body{
 #wrap{
   width:900px;
   margin:0 auto;
-  height: 600px;
+  height: 200px;
+  display: none;
 }
 .button_wrapper {
     margin: 200px 0 0 350px;
